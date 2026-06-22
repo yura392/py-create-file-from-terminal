@@ -95,6 +95,4 @@ def main() -> None:
     write_to_file(file_path, content_block)
 
 
-if __name__ == "__main__":
-    main()
-
+main()
